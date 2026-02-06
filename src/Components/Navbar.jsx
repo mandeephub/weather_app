@@ -32,6 +32,7 @@ const Navbar = ({ handlechange }) => {
                 <div>
                     <form className='bg-white p-2 rounded-full'>
                         <select className="w-[200px] text-blue-800 font-semibold" onChange={seechnages}>
+                            <option value="">Choose City</option>
                             <option value="Udaipur">Udaipur</option>
                             <option value="Delhi">Delhi</option>
                             <option value="Mumbai">Mumbai</option>

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Navbar from './components/Navbar'
-import Weathercard from './Components/Weathercard'
+import Weathercard from './components/Weathercard'
 
 const App = () => {
 
